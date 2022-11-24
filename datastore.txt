@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Pasta
 Pizza
 Momos
 
+=======
+Fight Club
+Interstellar
+Inception
+>>>>>>> movies
